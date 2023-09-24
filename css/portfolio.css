@@ -31,6 +31,7 @@ body {
     animation: slidetRight 1s ease forwards;
 
 }
+
 #navbarNav{
     font-size: 25px;
     color: #fff;
@@ -126,9 +127,9 @@ body {
 }
 
 #img-fluid_aboutme {
-    width: 55%;
-    height: 100%;
+
     border: 1px solid #0ef;
+     max-width:55%; max-height: 100%;
 }
 
 #fs-1 {
